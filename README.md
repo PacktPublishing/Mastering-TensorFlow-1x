@@ -1,29 +1,12 @@
-# README #
+# Mastering TensorFlow
+Mastering TensorFlow by Armando Fandango
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is the code repository for [Mastering TensorFlow](Link TODO), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting code files necessary to work through the book from start to finish.
+## About the Book
+TODO
 
-### What is this repository for? ###
+## Instructions and Navigation
+The Python code (.py files) Jupyter Python and R notebooks (.ipynb) are in the folder code. The code relies on datasetslib, that is added as a submodule and available in datasetslib folder.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.

@@ -3,3 +3,4 @@ TODO/
 workspace.xml
 __pycache__
 .idea
+*.Rhistory
