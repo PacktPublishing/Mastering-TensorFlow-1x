@@ -11,7 +11,11 @@ The book helps you obtain in-depth knowledge of TensorFlow, making you the go-to
 
 ## Instructions and Navigation
 
-The code relies on datasetslib, that is added as a submodule and available in datasetslib folder.
+The code relies on datasetslib, that is added as a submodule and available in datasetslib folder. To checkout the code with the submoudles use the --recurse-submoudles switch as follows:
+
+```
+git clone --recurse-submodules git@github.com:armando-fandango/Mastering-TensorFlow.git
+```
 
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
